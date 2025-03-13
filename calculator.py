@@ -1,16 +1,21 @@
 def raqmhaqiqi(x):
     while True:
         try:
-            return float(input(x))
-        except ValueError:
+            iinput = input(x).strip()
+            if iinput == "baraka":  
+                return iinput  
+            return float(iinput) 
+        except ValueError: 
             print("Error: dakhal chy raqm bhal nas aspipa7")
+
+        
 
 def jam3():
     numbers = []
    
     while True:
-        a = raqmhaqiqi("ara chy raqm oder schreiben Sie einfach Null ")
-        if a == 0:
+        a = raqmhaqiqi("ara chy raqm wla ktb baraka ")
+        if a == "baraka":
             break
         numbers.append(a)
     return sum(numbers)
@@ -19,8 +24,8 @@ def tar7():
     numbers = []
    
     while True:
-        a = raqmhaqiqi("ara chy raqm oder schreiben Sie einfach Null ")
-        if a == 0:
+        a = raqmhaqiqi("ara chy raqm wla ktb baraka ")
+        if a == "baraka":
             break
         numbers.append(a)
     return numbers[0] - sum(numbers[1:])
@@ -30,12 +35,13 @@ def darb1(numbers):
     for num in numbers:
         x *= num
     return x
+
 def darb():
     numbers = []
    
     while True:
-        a = raqmhaqiqi("ara chy raqm oder schreiben Sie einfach Null ")
-        if a == 0:
+        a = raqmhaqiqi("ara chy raqm wla ktb baraka ")
+        if a == "baraka":
             break
         numbers.append(a)
     return darb1(numbers)
