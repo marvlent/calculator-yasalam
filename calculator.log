@@ -1,0 +1,170 @@
+2025-07-28 20:07:50,153 - INFO - Calculator application started.
+2025-07-28 20:07:55,943 - INFO - User selected operation: '{o}'
+2025-07-28 20:07:55,944 - INFO - The function 'Addition' started.
+2025-07-28 20:08:02,239 - ERROR - Invalid input received: '{iinput}'. Expected a number.
+2025-07-28 20:08:19,069 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-07-28 20:08:19,069 - INFO - The function Addition has completed successfully.
+2025-07-28 20:14:56,366 - INFO - User selected operation: '{o}'
+2025-07-28 20:14:56,367 - WARNING - Invalid operation input: '{o}'. Displaying error to user.
+2025-07-28 20:14:58,335 - INFO - User selected operation: '{o}'
+2025-07-28 20:14:58,336 - INFO - User chose to exit. Shutting down application.
+2025-07-28 20:16:11,448 - INFO - Calculator application started.
+2025-07-28 21:49:07,122 - INFO - Calculator application started.
+2025-07-28 21:50:00,411 - INFO - Calculator application started.
+2025-07-28 21:50:02,835 - INFO - User selected operation: 'exit'
+2025-07-28 21:50:02,837 - INFO - User chose to exit. Shutting down application.
+2025-07-28 22:13:00,983 - INFO - Calculator application started.
+2025-07-28 22:13:07,855 - INFO - User selected operation: 'exit'
+2025-07-28 22:13:07,855 - INFO - User chose to exit. Shutting down application.
+2025-07-28 22:13:10,326 - INFO - Calculator application started.
+2025-07-28 22:16:52,342 - INFO - User selected operation: 'quitter'
+2025-07-28 22:16:52,342 - INFO - User chose to exit. Shutting down application.
+2025-07-28 22:16:57,983 - INFO - Calculator application started.
+2025-07-28 22:17:02,406 - INFO - User selected operation: 'exit'
+2025-07-28 22:17:02,407 - WARNING - Invalid operation input: 'exit'. Displaying error to user.
+2025-07-28 22:19:06,960 - INFO - Calculator application started.
+2025-07-28 22:19:14,202 - INFO - User selected operation: 'additionner'
+2025-07-28 22:19:14,202 - WARNING - Invalid operation input: 'additionner'. Displaying error to user.
+2025-07-28 22:19:16,635 - INFO - User selected operation: 'add'
+2025-07-28 22:19:16,637 - INFO - The function 'Addition' started.
+2025-07-28 22:19:26,955 - ERROR - Invalid input received: '{iinput}'. Expected a number.
+2025-07-28 22:19:30,398 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-07-28 22:19:30,399 - INFO - The function Addition has completed successfully.
+2025-07-28 22:19:34,791 - INFO - User selected operation: 'quitter'
+2025-07-28 22:19:34,792 - INFO - User chose to exit. Shutting down application.
+2025-07-28 22:20:50,450 - INFO - Calculator application started.
+2025-07-28 22:20:52,151 - INFO - User selected operation: 'add'
+2025-07-28 22:20:52,152 - INFO - The function 'Addition' started.
+2025-07-28 22:20:58,105 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-07-28 22:20:58,105 - INFO - The function Addition has completed successfully.
+2025-07-28 22:21:00,228 - INFO - User selected operation: 'exit'
+2025-07-28 22:21:00,229 - INFO - User chose to exit. Shutting down application.
+2025-07-30 21:41:40,344 - INFO - Calculator application started.
+2025-07-30 21:41:42,888 - INFO - User selected operation: 'add'
+2025-07-30 21:41:42,888 - INFO - The function 'Addition' started.
+2025-07-30 21:41:53,977 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-07-30 21:41:53,977 - INFO - The function Addition has completed successfully.
+2025-07-30 21:42:01,609 - INFO - User selected operation: 'exit'
+2025-07-30 21:42:01,609 - INFO - User chose to exit. Shutting down application.
+2025-07-30 21:44:19,011 - INFO - Calculator application started.
+2025-07-30 21:44:21,181 - INFO - User selected operation: 'add'
+2025-07-30 21:44:21,181 - INFO - The function 'Addition' started.
+2025-07-30 21:44:24,912 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-07-30 21:44:24,912 - INFO - The function Addition has completed successfully.
+2025-07-30 21:46:29,424 - INFO - Calculator application started.
+2025-07-30 21:46:33,311 - INFO - User selected operation: 'history'
+2025-07-30 21:57:44,425 - INFO - User selected operation: 'clear'
+2025-07-30 21:57:44,429 - WARNING - Invalid operation input: 'clear'. Displaying error to user.
+2025-07-30 21:57:47,205 - INFO - User selected operation: 'exit'
+2025-07-30 21:57:47,205 - INFO - User chose to exit. Shutting down application.
+2025-07-30 21:57:53,323 - INFO - Calculator application started.
+2025-07-30 21:57:55,542 - INFO - User selected operation: 'add'
+2025-07-30 21:57:55,542 - INFO - The function 'Addition' started.
+2025-07-30 21:57:59,529 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-07-30 21:57:59,529 - INFO - The function Addition has completed successfully.
+2025-07-30 21:58:04,452 - INFO - User selected operation: 'hostory'
+2025-07-30 21:58:04,452 - WARNING - Invalid operation input: 'hostory'. Displaying error to user.
+2025-07-30 21:58:08,843 - INFO - User selected operation: 'history'
+2025-07-30 22:11:27,368 - INFO - User selected operation: 'exit'
+2025-07-30 22:11:27,368 - INFO - User chose to exit. Shutting down application.
+2025-08-01 15:57:51,681 - INFO - Calculator application started.
+2025-08-01 15:57:54,078 - INFO - User selected operation: 'add'
+2025-08-01 15:57:54,078 - INFO - The function 'Addition' started.
+2025-08-01 15:57:58,493 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 15:57:58,493 - INFO - The function Addition has completed successfully.
+2025-08-01 15:58:01,521 - INFO - User selected operation: 'history'
+2025-08-01 15:58:39,713 - INFO - User selected operation: 'exit'
+2025-08-01 15:58:39,713 - INFO - User chose to exit. Shutting down application.
+2025-08-01 15:58:45,524 - INFO - Calculator application started.
+2025-08-01 15:58:49,629 - INFO - User selected operation: 'multiply'
+2025-08-01 15:58:49,636 - INFO - The function 'multiplication1' started.
+2025-08-01 15:58:55,371 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 15:58:55,371 - INFO - The function multiplication1 has completed successfully.
+2025-08-01 15:59:00,853 - INFO - User selected operation: 'history'
+2025-08-01 16:16:17,567 - INFO - Calculator application started.
+2025-08-01 16:16:20,930 - INFO - User selected operation: 'divide'
+2025-08-01 16:16:20,930 - INFO - The function 'Division' started.
+2025-08-01 16:16:22,913 - INFO - The function Division has completed successfully: 5.0 / 3.0 = 1.6666666666666667
+2025-08-01 16:16:27,119 - INFO - User selected operation: 'history'
+2025-08-01 16:18:32,027 - INFO - User selected operation: 'add'
+2025-08-01 16:18:32,028 - INFO - The function 'Addition' started.
+2025-08-01 16:18:35,445 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 16:18:35,446 - INFO - The function Addition has completed successfully.
+2025-08-01 16:18:37,988 - INFO - User selected operation: 'history'
+2025-08-01 16:18:45,447 - INFO - User selected operation: 'divide'
+2025-08-01 16:18:45,447 - INFO - The function 'Division' started.
+2025-08-01 16:18:49,405 - INFO - The function Division has completed successfully: 6.0 / 12.0 = 0.5
+2025-08-01 16:18:52,376 - INFO - User selected operation: 'history'
+2025-08-01 16:19:24,836 - INFO - User selected operation: 'multiply'
+2025-08-01 16:19:24,836 - INFO - The function 'multiplication1' started.
+2025-08-01 16:19:29,779 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 16:19:29,781 - INFO - The function multiplication1 has completed successfully.
+2025-08-01 16:19:32,585 - INFO - User selected operation: 'history'
+2025-08-01 16:21:36,957 - INFO - User selected operation: 'exponentiate'
+2025-08-01 16:21:36,957 - INFO - The function 'Exponentiation' started.
+2025-08-01 16:21:40,577 - INFO - The function 'Exponentiation' has completed successfully: {a} ** {b} = {result}
+2025-08-01 16:21:40,579 - INFO - Operation 'exponentiate' completed, result displayed
+2025-08-01 16:21:45,664 - INFO - User selected operation: 'history'
+2025-08-01 16:21:57,802 - INFO - User selected operation: 'divide'
+2025-08-01 16:21:57,802 - INFO - The function 'Division' started.
+2025-08-01 16:22:02,053 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 16:22:02,054 - INFO - Division cancelled by user for first number.
+2025-08-01 16:22:03,455 - INFO - User selected operation: 'exit'
+2025-08-01 16:22:03,455 - INFO - User chose to exit. Shutting down application.
+2025-08-01 16:22:06,684 - INFO - Calculator application started.
+2025-08-01 16:22:08,297 - INFO - User selected operation: 'divide'
+2025-08-01 16:22:08,297 - INFO - The function 'Division' started.
+2025-08-01 16:22:10,044 - INFO - The function Division has completed successfully: 7.0 / 2.0 = 3.5
+2025-08-01 16:22:16,453 - INFO - User selected operation: 'history'
+2025-08-01 16:22:20,691 - INFO - User selected operation: 'clear'
+2025-08-01 16:22:20,691 - WARNING - Invalid operation input: 'clear'. Displaying error to user.
+2025-08-01 16:22:23,040 - INFO - User selected operation: 'histyr'
+2025-08-01 16:22:23,040 - WARNING - Invalid operation input: 'histyr'. Displaying error to user.
+2025-08-01 16:22:25,597 - INFO - User selected operation: 'exit'
+2025-08-01 16:22:25,597 - INFO - User chose to exit. Shutting down application.
+2025-08-01 18:27:50,800 - INFO - Calculator application started.
+2025-08-01 18:27:52,807 - INFO - User selected operation: 'add'
+2025-08-01 18:27:52,807 - INFO - The function 'Addition' started.
+2025-08-01 18:27:55,221 - ERROR - Invalid input received: '{iinput}'. Expected a number.
+2025-08-01 18:27:59,791 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 18:27:59,791 - INFO - The function Addition has completed successfully.
+2025-08-01 18:28:03,270 - INFO - User selected operation: 'history'
+2025-08-01 18:28:13,618 - INFO - User selected operation: 'divide'
+2025-08-01 18:28:13,618 - INFO - The function 'Division' started.
+2025-08-01 18:28:16,239 - ERROR - There was an attempt of division by 0 5.0/0.0. Prompting user again.
+2025-08-01 18:28:19,442 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 18:28:19,442 - INFO - Division cancelled by user for first number.
+2025-08-01 18:28:25,954 - INFO - User selected operation: 'history'
+2025-08-01 18:28:31,128 - INFO - User selected operation: 'exit'
+2025-08-01 18:28:31,128 - INFO - User chose to exit. Shutting down application.
+2025-08-01 18:46:03,012 - INFO - Calculator application started.
+2025-08-01 18:46:05,963 - INFO - User selected operation: 'add'
+2025-08-01 18:46:05,968 - INFO - The function 'Addition' started.
+2025-08-01 18:46:07,170 - ERROR - Invalid input received: '{iinput}'. Expected a number.
+2025-08-01 18:46:13,085 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 18:46:13,085 - INFO - The function Addition has completed successfully.
+2025-08-01 18:46:17,333 - INFO - User selected operation: 'exit'
+2025-08-01 18:46:17,333 - INFO - User chose to exit. Shutting down application.
+2025-08-01 19:39:04,714 - INFO - Calculator application started.
+2025-08-01 19:39:05,761 - INFO - User selected operation: 'exit'
+2025-08-01 19:39:05,761 - INFO - User chose to exit. Shutting down application.
+2025-08-01 19:39:11,543 - INFO - Calculator application started.
+2025-08-01 19:39:14,493 - INFO - User selected operation: 'add'
+2025-08-01 19:39:14,493 - INFO - The function 'Addition' started.
+2025-08-01 19:39:18,923 - INFO - The user entered 'Stop' to stop input collection for '{x}'
+2025-08-01 19:39:18,923 - INFO - The function Addition has completed successfully.
+2025-08-01 19:39:20,324 - INFO - User selected operation: 'exit'
+2025-08-01 19:39:20,324 - INFO - User chose to exit. Shutting down application.
+2025-08-01 19:39:27,094 - INFO - The function 'Addition' started.
+2025-08-01 19:39:31,810 - INFO - The function 'Addition' started.
+2025-08-01 19:39:38,636 - INFO - The function 'Addition' started.
+2025-08-01 19:39:43,468 - INFO - The function 'Addition' started.
+2025-08-01 19:39:44,654 - INFO - The function 'Addition' started.
+2025-08-01 19:39:44,879 - INFO - The function 'Addition' started.
+2025-08-01 19:39:49,450 - INFO - The function 'Addition' started.
+2025-08-02 15:58:29,197 - INFO - Calculator application started.
+2025-08-02 15:58:30,994 - INFO - User selected operation: 'divide'
+2025-08-02 15:58:30,994 - INFO - The function 'Division' started.
+2025-08-02 15:58:36,170 - INFO - The function Division has completed successfully: 24.0 / 4.0 = 6.0
+2025-08-02 19:37:39,539 - INFO - User selected operation: 'exit'
+2025-08-02 19:37:39,545 - INFO - User chose to exit. Shutting down application.

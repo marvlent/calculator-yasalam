@@ -1,0 +1,88 @@
+# French translations for PACKAGE package
+# Traductions francaises du paquet PACKAGE.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-28 19:48+0100\n"
+"PO-Revision-Date: 2025-07-28 19:48+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: calculator.py:22 calculator.py:35 calculator.py:48 calculator.py:70
+#: calculator.py:81 calculator.py:87 calculator.py:103 calculator.py:109
+msgid "Stop"
+msgstr "Arrêter"
+
+#: calculator.py:28
+msgid "Error: Please enter a number like 1, 2.5, -3."
+msgstr "Erreur : Veuillez entrer un nombre comme 1, 2.5, -3."
+
+#: calculator.py:34 calculator.py:47 calculator.py:69
+msgid "Enter a number or type 'Stop' to stop: "
+msgstr "Entrez un nombre ou tapez 'Arrêter' pour arrêter : "
+
+#: calculator.py:78
+msgid "Enter first number: "
+msgstr "Entrez le premier nombre : "
+
+#: calculator.py:85
+msgid "Enter second number: "
+msgstr "Entrez le deuxième nombre : "
+
+#: calculator.py:97
+msgid "Cannot divide by zero. Please try again."
+msgstr "Impossible de diviser par zéro. Veuillez réessayer."
+
+#: calculator.py:101
+msgid "Enter the base number: "
+msgstr "Entrez le nombre de base : "
+
+#: calculator.py:107
+msgid "Enter the exponent: "
+msgstr "Entrez l'exposant : "
+
+#: calculator.py:121
+msgid ""
+"Choose an operation: add, Subtract, multiply, divide, exponentiate (or "
+"'exit'): "
+msgstr ""
+"Choisissez une opération : additionner, soustraire, multiplier, diviser, "
+"exponentier (ou 'quitter') : "
+
+#: calculator.py:126
+msgid "exit"
+msgstr "quitter"
+
+#: calculator.py:128
+msgid "Goodbye!"
+msgstr "Au revoir !"
+
+#: calculator.py:135
+msgid ""
+"That's not a valid option. Please choose from: add, Subtract, multiply, "
+"divide, exponentiate (or 'exit'): "
+msgstr ""
+"Ce n'est pas une option valide. Veuillez choisir parmi : additionner, "
+"soustraire, multiplier, diviser, exponentier (ou 'quitter') : "
+
+#: calculator.py:147
+msgid "result {Division():.2f}"
+msgstr "résultat {Division():.2f}"
+
+#: calculator.py:156
+msgid ""
+"Choose another operation: add, Subtract, multiply, divide, exponentiate (or "
+"'exit'): "
+msgstr ""
+"Choisissez une autre opération : additionner, soustraire, multiplier, "
+"diviser, exponentier (ou 'quitter') : "
